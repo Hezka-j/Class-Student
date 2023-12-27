@@ -1,0 +1,7 @@
+﻿  class Student.cpp
+D:\Проекты\class Student\class Student.cpp(557,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\class Student\class Student.cpp(559,7): warning C4101: d: неиспользованная локальная переменная
+D:\Проекты\class Student\class Student.cpp(507): warning C4715: Student::GetClassworkRate: значение возвращается не при всех путях выполнения
+D:\Проекты\class Student\class Student.cpp(498): warning C4715: Student::GetHomeworkRate: значение возвращается не при всех путях выполнения
+D:\Проекты\class Student\class Student.cpp(516): warning C4715: Student::GetExamRate: значение возвращается не при всех путях выполнения
+  class Student.vcxproj -> D:\Проекты\class Student\x64\Debug\class Student.exe
